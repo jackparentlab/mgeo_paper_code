@@ -9,4 +9,4 @@ The analysis code and associated software documentation are available under the 
 
 ## Citation
 
-Use [CITATION.cff](CITATION.cff) to cite the analysis code.
+Cite the archived [v1.0.0 release on Zenodo](https://doi.org/10.5281/zenodo.24048123). See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.

@@ -3,6 +3,8 @@ message: "If you use this analysis code, please cite it using the metadata below
 type: software
 title: "MGE organoid manuscript code"
 version: "1.0.0"
+date-released: "2026-11-08"
+doi: "10.5281/zenodo.24048123"
 license: MIT
 authors:
   - family-names: Crespo
