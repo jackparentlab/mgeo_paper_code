@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite it using the metadata below."
+type: software
+title: "MGE organoid manuscript code"
+authors:
+  - family-names: Crespo
+    given-names: "Emmanuel L."
+repository-code: "https://github.com/jackparentlab/mgeo_paper_code"
+abstract: "Analysis code for the MGE organoid manuscript, including single-cell transcriptomics, lineage reconstruction, cross-study marker analysis, reference mapping, and multielectrode array analysis."
