@@ -1,4 +1,6 @@
-# Publication code
+# Advanced Bioinformatics and MEA Analyses
+
+Lineage reconstruction, cross-study transcriptomics, and multielectrode array recordings.
 
 **Contributor:** Emmanuel L. Crespo.
 
